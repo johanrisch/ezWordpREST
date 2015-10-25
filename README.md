@@ -13,6 +13,9 @@ You should be interested in this plugin if you:
 I've never had the chance to do much PHP coding. If you have any suggestions on best practices and other 
 improvements it's greatly appreciated!
 
+I used the plugin template created by Hugh Lashbrooke found at https://github.com/hlashbrooke/WordPress-Plugin-Template
+to create the wordpress plugin. Thanks Hugh!
+
 
 ## TL;DR show me the code
 This code can be put anywhere which is executed during wordpress start up. For instance it could be put in
