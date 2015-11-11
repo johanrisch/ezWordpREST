@@ -20,7 +20,7 @@ to create the wordpress plugin. Thanks Hugh!
 ## TL;DR show me the code
 This code can be put anywhere which is executed during wordpress start up. For instance it could be put in
 your themes functions.php
-Access the posts with the url {your_root_wordpress_url}/ezwordprest/{post_type}
+Access the posts with the url http://youwordpressurl.com/ezwordprest/{post_type}
 ```php
 if(function_exists("ezWordpREST")){
 
